@@ -1,0 +1,180 @@
+.wrapper{
+	
+}
+
+.first{
+	padding-bottom: 179px;
+	display: inline-block;
+	background-image: url(./images/bg-1.png);
+	background-color: #2ecc71;
+	padding-left: 414px;
+	padding-right: 416px;
+	padding-top: 32px;	
+	position: relative;
+}
+
+.header{
+
+}
+
+.get{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.up{
+	display: inline-block;
+	vertical-align: middle;
+	color: #ffffff;
+}
+.font{
+	width: 627px;
+	height: 82px;
+	color: #f4f4f4;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 32px;
+}
+
+ @font-face {
+    font-family: Roboto;
+    src: url(Downloads/Roboto.zip);
+}
+
+h1{
+	margin-top: 66px;
+	width: 624px;
+	height: 62px;
+	color: #f4f4f4;
+	font-family: Roboto;
+	font-size: 64px;
+	font-weight: 300;
+	line-height: 60px;
+	font-family: "Roboto Light";
+	font-weight: 300;
+	letter-spacing: 2.56px;
+}
+
+.beter{
+	font-family: "Roboto - Bold";
+	font-weight: 700;
+	letter-spacing: 2.56px;
+}
+
+.car{
+	margin-top: 61px;
+}
+.fit{
+	margin-right: 334px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.one{
+	display: inline-block;
+	margin-right: 52px;
+	vertical-align: middle;
+}
+
+.two{ 
+	display: inline-block;
+	margin-right: 52px; 
+	vertical-align: middle;
+}
+
+.three{
+	margin-right: 52px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.four{
+	display: inline-block;
+	margin-right: 52px;
+	vertical-align: middle;
+}
+
+.five{
+	display: inline-block;
+	margin-right: 52px;
+	vertical-align: middle;
+}
+
+.logo{
+	margin-top: 197px;
+	width: 111px;
+}
+
+.phone{
+	margin-left: 140px;
+	display: inline-block;
+	position: absolute;
+	bottom: 0;
+	right: 414px;
+}
+
+.middle{
+	max-width: 630px;
+}
+
+.im{
+	width: 100%;
+}
+
+.google{
+	margin-left: 30px;
+}
+
+.second{
+	background-color: #ffffff;
+	position: relative;
+	padding-bottom: 216px;
+}
+
+.absol{
+	position: absolute;
+	left: 459px;
+	top: 216px;
+	display: inline-block;
+}
+.cartoons{
+	margin-left: 346px;
+	display: inline-block;
+	margin-top: 111px;
+	vertical-align: middle;
+}
+
+.option{
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 465px;
+	margin-left: 279px;
+}
+
+.h2{
+	width: 548px;
+	height: 46px;
+	color: #2ecc71;
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 60px;
+	color: #5a5a5a;
+	letter-spacing: 1.44px;
+}
+
+span{
+	width: 548px;
+	height: 46px;
+	color: #2ecc71;
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 60px;
+}
+
+.imd{
+	z-index: 1;
+	position: relative;
+}
